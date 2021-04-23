@@ -1,6 +1,10 @@
 import '../styles/global.css'
 
 import { ChallengesProvider } from '../contexts/ChallengesContext'
+import { CountdownProvider } from '../contexts/CountdownContext'
+
+//NESSE ARQUIVO EU TENHO SOMENTE COMPONENTES/PROVIDERS QUE
+//EU VOU TER EM TODAS MINHAS TELAS
 
 //TODOS ELEMENTOS DESSE CHALLENGES CONTEXT PROVIDER
 //POSSUEM ACESSO AO CONTEXTO DESSE PROVIDER
